@@ -2,11 +2,11 @@
 
 ## Description
 
-    Clinic Flow is a clinic management application designed for healthcare workers to manage their patient's health information such as medical records, prescriptions, and doctor's appointments. I decided that I needed to build something useful with real-world application; something beyond the scope of what was taught to me in the classroom. 
+Clinic Flow is a clinic management application designed for healthcare workers to manage their patient's health information such as medical records, prescriptions, and doctor's appointments. I decided that I needed to build something useful with real-world application; something beyond the scope of what was taught to me in the classroom. 
     
-    My mother, who works as an ER nurse, inspired me to create this application based in the medical field. I believe this app to showcase the culmination of all I have learned in my web dev journey and although it's something that hasn't already been done, it is my attempt at solving the problem of keeping one's medical records on paper. In this day and age, with everything being digitally uploaded, it is crucial to transfer files to a more permanent and safe location. Even more so, with digitized EHR, care providers are able to more easily transfer records between healthcare providers, should the circumstances arise. 
+My mother, who works as an ER nurse, inspired me to create this application based in the medical field. I believe this app to showcase the culmination of all I have learned in my web dev journey and although it's something that hasn't already been done, it is my attempt at solving the problem of keeping one's medical records on paper. In this day and age, with everything being digitally uploaded, it is crucial to transfer files to a more permanent and safe location. Even more so, with digitized EHR, care providers are able to more easily transfer records between healthcare providers, should the circumstances arise. 
 
-    In summation, this application would greatly benefit healthcare workers to have all the information they need at their fingertips and in one compartmentalized health portal. 
+In summation, this application would greatly benefit healthcare workers to have all the information they need at their fingertips and in one compartmentalized health portal. 
 
 ## Table of Contents
 - [Clinic Flow](#clinic-flow)
@@ -19,31 +19,31 @@
 
 ## Usage 
 
-    On the landing page, you will be prompted to first create an account. Afterwards, you will be able to use those credentials to log in when necessary to access the website in it's entirety. 
+On the landing page, you will be prompted to first create an account. Afterwards, you will be able to use those credentials to log in when necessary to access the website in it's entirety. 
     
 <p align="center">
 <img src="public/ClinicFlow.png" alt="Clinic Flow's landing page" width="700px">
 </p>
   
-    Upon login, you will be redirected to your dashboard. From here, you will have access to a variety of pages. Depending on the device you are accessing this website from, you will either use the burger menu to view these pages or they will be visible in the navigation bar located at the top of the viewport. 
+Upon login, you will be redirected to your dashboard. From here, you will have access to a variety of pages. Depending on the device you are accessing this website from, you will either use the burger menu to view these pages or they will be visible in the navigation bar located at the top of the viewport. 
 
   ```md
   ![Dashboard Page](public/screenshot.png)
   ```
 
-    Clicking on the Patient's tab will redirect you to a page where new patient information can be entered. Generic information about the patient can be entered into a form here. 
+Clicking on the Patient's tab will redirect you to a page where new patient information can be entered. Generic information about the patient can be entered into a form here. 
     
 ```md
 ![Patient Page](public/screenshot.png)
   ```
 
-    Clicking on the Prescriptions tab will allow you to access all patient's prescriptions and medications records. 
+Clicking on the Prescriptions tab will allow you to access all patient's prescriptions and medications records. 
 
 ```md
 ![Prescriptions Page](public/screenshot.png)
 ```
 
-    Clicking on the Appointments tab will bring you to a calendar that displays which days your patient(s) have their appointments on. From here, you can either edit their appointment details and/or cancel their appointments. 
+Clicking on the Appointments tab will bring you to a calendar that displays which days your patient(s) have their appointments on. From here, you can either edit their appointment details and/or cancel their appointments. 
 
 ```md
 ![Appointments Page](public/screenshot.png)
