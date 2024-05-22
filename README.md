@@ -19,31 +19,31 @@ In summation, this application would greatly benefit healthcare workers to have 
 
 ## Usage 
 
-    On the landing page, you will be prompted to first create an account. Afterwards, you will be able to use those credentials to log in when necessary to access the website in it's entirety. 
+On the landing page, you will be prompted to first create an account. Afterwards, you will be able to use those credentials to log in when necessary to access the website in it's entirety. 
     
 <p align="center">
 <img src="public/ClinicFlow.png" alt="Clinic Flow's landing page" width="700px">
 </p>
   
-    Upon login, you will be redirected to your dashboard. From here, you will have access to a variety of pages. Depending on the device you are accessing this website from, you will either use the burger menu to view these pages or they will be visible in the navigation bar located at the top of the viewport. 
+Upon login, you will be redirected to your dashboard. From here, you will have access to a variety of pages. Depending on the device you are accessing this website from, you will either use the burger menu to view these pages or they will be visible in the navigation bar located at the top of the viewport. 
 
   ```md
   ![Dashboard Page](public/screenshot.png)
   ```
 
-    Clicking on the Patient's tab will redirect you to a page where new patient information can be entered. Generic information about the patient can be entered into a form here. 
+Clicking on the Patient's tab will redirect you to a page where new patient information can be entered. Generic information about the patient can be entered into a form here. 
     
 ```md
 ![Patient Page](public/screenshot.png)
   ```
 
-    Clicking on the Prescriptions tab will allow you to access all patient's prescriptions and medications records. 
+Clicking on the Prescriptions tab will allow you to access all patient's prescriptions and medications records. 
 
 ```md
 ![Prescriptions Page](public/screenshot.png)
 ```
 
-    Clicking on the Appointments tab will bring you to a calendar that displays which days your patient(s) have their appointments on. From here, you can either edit their appointment details and/or cancel their appointments. 
+Clicking on the Appointments tab will bring you to a calendar that displays which days your patient(s) have their appointments on. From here, you can either edit their appointment details and/or cancel their appointments. 
 
 ```md
 ![Appointments Page](public/screenshot.png)
