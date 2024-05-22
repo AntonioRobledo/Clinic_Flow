@@ -2,11 +2,11 @@
 
 ## Description
 
-    Clinic Flow is a clinic management application designed for healthcare workers to manage their patient's health information such as medical records, prescriptions, and doctor's appointments. I decided that I needed to build something useful with real-world application; something beyond the scope of what was taught to me in the classroom. 
+Clinic Flow is a clinic management application designed for healthcare workers to manage their patient's health information such as medical records, prescriptions, and doctor's appointments. I decided that I needed to build something useful with real-world application; something beyond the scope of what was taught to me in the classroom. 
     
-    My mother, who works as an ER nurse, inspired me to create this application based in the medical field. I believe this app to showcase the culmination of all I have learned in my web dev journey and although it's something that hasn't already been done, it is my attempt at solving the problem of keeping one's medical records on paper. In this day and age, with everything being digitally uploaded, it is crucial to transfer files to a more permanent and safe location. Even more so, with digitized EHR, care providers are able to more easily transfer records between healthcare providers, should the circumstances arise. 
+My mother, who works as an ER nurse, inspired me to create this application based in the medical field. I believe this app to showcase the culmination of all I have learned in my web dev journey and although it's something that hasn't already been done, it is my attempt at solving the problem of keeping one's medical records on paper. In this day and age, with everything being digitally uploaded, it is crucial to transfer files to a more permanent and safe location. Even more so, with digitized EHR, care providers are able to more easily transfer records between healthcare providers, should the circumstances arise. 
 
-    In summation, this application would greatly benefit healthcare workers to have all the information they need at their fingertips and in one compartmentalized health portal. 
+In summation, this application would greatly benefit healthcare workers to have all the information they need at their fingertips and in one compartmentalized health portal. 
 
 ## Table of Contents
 - [Clinic Flow](#clinic-flow)
