@@ -8,18 +8,18 @@ export default function Home() {
     <main className='flex min-h-screen flex-col'>
       <div className={styles.overlay}>
         <div className='flex justify-end'>
-        <button className="border-2 border-slate-300 rounded-full px-6 py-2 hover:bg-sky-600 hover:text-white text-slate-700 text-xl">Login</button>
-        <button className="border-2 border-slate-300 rounded-full px-4 py-2 hover:bg-sky-600 hover:text-white text-slate-700 text-xl">Sign Up</button>
+        <button className="border-2 border-slate-300 rounded-full px-6 py-2 hover:bg-sky-600 hover:text-white text-slate-700 text-xl">Register</button>
+        <button className="border-2 border-slate-300 rounded-full px-4 py-2 hover:bg-sky-600 hover:text-white text-slate-700 text-xl">Sign In</button>
         </div>
           <div className={styles.content}>
-            <h1> Welcome to Clinic Flow: A Clinic Management System for Healthcare Workers.</h1>
-            <Image 
+          <Image 
               src="/Caduceus.png"
-              width={200}
-              height={300}
-              className='caduceus'
+              width={100}
+              height={50}
+              className='caduceus h-auto w-auto'
               alt='Caduceus symbol'
               />
+            <h1 className='flex items-center font-bold text-xl'> Welcome to Clinic Flow: A Clinic Management System for Healthcare Workers.</h1>
               <div className="w-full h-40 flex items-center justify-center cursor-pointer">
   <div
     className="relative inline-flex items-center justify-start py-3 pl-4 pr-12 overflow-hidden font-semibold shadow text-indigo-600 transition-all duration-150 ease-in-out rounded hover:pl-10 hover:pr-6 bg-gray-50 dark:bg-gray-700 dark:text-white dark:hover:text-gray-200 dark:shadow-none group"
